@@ -2,3 +2,9 @@ Question: principla
 Response: The principal of Lendi Institute of Engineering & Technology is Dr. V.V. Rama Reddy.
 
 
+Question: hlo
+Response: Hello! How can I assist you today?
+
+Question: how are you?
+Response: Applications can be submitted online through the college's admission portal during the admission period.
+
