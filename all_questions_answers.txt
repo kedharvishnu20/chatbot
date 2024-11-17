@@ -8,3 +8,84 @@ Response: Hello! How can I assist you today?
 Question: how are you?
 Response: Applications can be submitted online through the college's admission portal during the admission period.
 
+Question: hlo
+Response: Hello! How can I assist you today?
+
+Question: pizza
+Response: None
+
+Question: princip
+Response: The principal is Dr. V.V. Rama Reddy.
+
+Question: princi
+Response: None
+
+Question: principal
+Response: The principal is Dr. V.V. Rama Reddy.
+
+Question: prin
+Response: None
+
+Question: canteen
+Response: A spacious and clean canteen is available on campus, catering to the diverse tastes of students and staff.
+
+Question: timing
+Response: None
+
+Question: canteen
+Response: A spacious and clean canteen is available on campus, catering to the diverse tastes of students and staff.
+
+Question: canteen
+Response: A spacious and clean canteen is available on campus, catering to the diverse tastes of students and staff.
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodu
+Response: No answer found
+
+Question: pillodi
+Response: No answer found
+
+Question: pillodi
+Response: No answer found
+
